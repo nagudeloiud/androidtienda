@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My App Interfaces</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logo">Logo</string>
+    <string name="iniciarsesion">Iniciar Sesion</string>
+    <string name="registrar">Registrar</string>
+    <string name="twitter">Twiter</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="lblreg_usuarios">Registro de Usuarios</string>
+    <string name="ingresar_nombre">Ingresar Nombre</string>
+    <string name="ingresar_ciudad">Ingresar Ciudad</string>
+    <string name="ingresar_correo">Ingresar Correo</string>
+    <string name="ingrese_password">Ingrese password</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="menu_about">Acerca</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="menu_categorias">Categorias</string>
+    <string name="menu_marcas">Marcas</string>
+    <string name="menu_productos">Productos</string>
+</resources>
